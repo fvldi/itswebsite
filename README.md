@@ -16,4 +16,4 @@ RELAYOUT HOME MELIPUTI:
 
 ## Submission
 
-![submission](./img/Home29022020.png)
+![submission](./img/01.jpg)
