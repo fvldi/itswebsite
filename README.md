@@ -25,4 +25,4 @@ RELAYOUT HOME MELIPUTI:
 
 ## Submission 04 - Faldi
 
-![submission](./img/05.png)
+![submission](./img/04.png)
