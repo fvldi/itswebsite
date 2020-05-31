@@ -13,16 +13,16 @@ RELAYOUT HOME MELIPUTI:
 
 ## Submission 01
 
-![submission](./img/Home-01.png)
+![submission](./img/01.png)
 
 ## Submission 02
 
-![submission](./img/Home-02.png)
+![submission](./img/02.png)
 
 ## Submission 03
 
-![submission](./img/Home-03.png)
+![submission](./img/03.png)
 
 ## Submission 04
 
-![submission](./img/Home-04.png)
+![submission](./img/04.png)
