@@ -13,5 +13,8 @@ RELAYOUT HOME MELIPUTI:
 
 ## Submission
 
-- [Alisa](./submission/alisa.md)
-- [Faldi](./submission/faldi.md)
+| No. | Alisa                              | Faldi                              |
+|-----|------------------------------------|------------------------------------|
+| 1   | [sub-alisa-01](./submission/01.md) | [Sub-faldi-01](./submission/04.md) |
+| 2   | [Sub-alisa-02](./submission/02.md) |                                    |
+| 3   | [Sub-alisa-03](./submission/03.md) |                                    |
