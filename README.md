@@ -13,4 +13,4 @@ RELAYOUT HOME MELIPUTI:
 
 ## Submission 01
 
-![submission](./img/01.jpg)
+![submission](./img/Home-01.png)
