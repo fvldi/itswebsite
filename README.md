@@ -11,18 +11,7 @@ RELAYOUT HOME MELIPUTI:
 - diutamakan: button livestreaming, logonya dibuat mirip youtube, tempatnya sebelum/sebelah button en ✔
 - quicklink diubah jadi partner, cukup diisi logo partner its ✔
 
-## Submission 01 - Alisa
+## Submission
 
-![submission](./img/01.png)
-
-## Submission 02 - Alisa
-
-![submission](./img/02.png)
-
-## Submission 03 - Alisa
-
-![submission](./img/03.png)
-
-## Submission 04 - Faldi
-
-![submission](./img/04.png)
+- [Alisa](./submission/alisa.md)
+- [Faldi](./submission/faldi.md)
