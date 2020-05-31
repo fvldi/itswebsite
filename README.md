@@ -7,13 +7,10 @@
 
 RELAYOUT HOME MELIPUTI:
 
-- Pada home, admissions ditaruh paling awal ✔
-- Background Study at ITS diganti -> jangan Graha ✔
-- Penambahan link dibawah berita ✔
-- Penambahan double degree, joint degree di bawah study program atau international students ✔
-- Penambahan international academic partners ITS 
-- Ada tambahan  live streaming + tombol more dibawahnya untuk ke landing page, ntar yg di home adalah video headline ✔
+- desain dhyana-faldi disatukan ✔
+- diutamakan: button livestreaming, logonya dibuat mirip youtube, tempatnya sebelum/sebelah button en ✔
+- quicklink diubah jadi partner, cukup diisi logo partner its ✔
 
-## Submission
+## Submission 01
 
 ![submission](./img/01.jpg)
